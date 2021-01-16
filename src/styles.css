@@ -1,0 +1,35 @@
+@import url('//fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+@import url('//fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+* {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.voltas {    
+    font-weight: bold;
+    font-size: 64px;
+}
+.voltas span{
+    font-size: 288px;
+}
+
+button {
+    background-color: #f9f9f9;
+    border: 1px solid black;
+    font-size: 18px;
+    padding: 22px;
+    margin: 8px;
+}
+
+.tempo {
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.bigger {
+    font-size: 144px;
+    font-weight: bold;
+    line-height: 50px;
+}
